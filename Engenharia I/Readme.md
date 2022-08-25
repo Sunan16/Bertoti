@@ -8,6 +8,7 @@ pensamentos de todas as caractericas que uma aplicação, sendo importante não 
 a necessidade fundamental do mesmo.
 
 // API/Trade-OFF
+
 Ganhos:
 • Experiência
 • Aprendizado com várias tecnologia
@@ -20,5 +21,20 @@ Perdas:
 • Esforço
 • Tempo
 
-//
+// Atividade Requisitos funcionais e não funcionais
 
+Situação: Site de prestação de serviços
+
+Requisitos funcionais:
+1- Cadastro de clientes e prestadores de serviços
+2- Sistema de busca tanto para prestar serviços quanto para aproximar os clientes dos Freelancers
+3- Cadastro de serviços
+4- Ferramentas para facilitar o encontro entre ambas partes
+
+Requisitos não-funcionais:
+1- Otimização do sistema e alto desempenho
+2- Utilização de arquitetura MVC
+3- Utilização de Banco de Dados Relacional
+4- POO e Diagrama de Classes UML
+5- Inteligência Artificial (Ajuda na busca e comportamento do cliente para ter um melhor encontro com o perfil de Freelancer)
+6- Responsividade e Portabilidade
