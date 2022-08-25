@@ -36,5 +36,4 @@ Requisitos não-funcionais:
 2- Utilização de arquitetura MVC
 3- Utilização de Banco de Dados Relacional
 4- POO e Diagrama de Classes UML
-5- Inteligência Artificial (Ajuda na busca e comportamento do cliente para ter um melhor encontro com o perfil de Freelancer)
-6- Responsividade e Portabilidade
+5- Responsividade e Portabilidade
