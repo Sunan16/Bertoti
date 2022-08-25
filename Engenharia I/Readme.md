@@ -12,10 +12,13 @@ Ganhos:
 • Experiência
 • Aprendizado com várias tecnologia
 • Experiência com trabalho em equipes
+• Compreensão das várias partes de um software
+• Desenvolvimento de Soft e Hard Skills
 
 Perdas:
-• Estudo por fora e falta de tempo para assuntos pessoais
+• Estudo extracurricular
 • Esforço
+• Tempo
 
 //
 
