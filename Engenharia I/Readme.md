@@ -27,13 +27,9 @@ Situação: Site de prestação de serviços
 
 Requisitos funcionais:
 1- Cadastro de clientes e prestadores de serviços
-2- Sistema de busca tanto para prestar serviços quanto para aproximar os clientes dos Freelancers
-3- Cadastro de serviços
-4- Ferramentas para facilitar o encontro entre ambas partes
-
+2- Busca de clientes
+ 
 Requisitos não-funcionais:
-1- Otimização do sistema e alto desempenho
-2- Utilização de arquitetura MVC
+1- Utiliza de arqutertura MVC
 3- Utilização de Banco de Dados Relacional
 4- POO e Diagrama de Classes UML
-5- Responsividade e Portabilidade
