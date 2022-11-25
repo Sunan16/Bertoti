@@ -9,23 +9,23 @@ a necessidade fundamental do mesmo.
 
 // API/Trade-OFF
 
-Ganhos:
+## Ganhos:
 • Experiência
 • Aprendizado com várias tecnologia
 • Experiência com trabalho em equipes
 • Compreensão das várias partes de um software
 • Desenvolvimento de Soft e Hard Skills
 
-Perdas:
+## Perdas:
 • Estudo extracurricular
 • Esforço
 • Tempo
 
 // Atividade Requisitos funcionais e não funcionais
 
-Situação: Site de prestação de serviços
+## Situação: Site de prestação de serviços
 
-Requisitos funcionais:
+## Requisitos funcionais:
 1- Cadastro de clientes e prestadores de serviços
 2- Busca de clientes
  
@@ -34,5 +34,23 @@ Requisitos não-funcionais:
 3- Utilização de Banco de Dados Relacional
 4- POO e Diagrama de Classes UML
 
-# Diagrama de Classes UML #
+## Diagrama de Classes UML
 ![Diagrama de Classes UML](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/Atividade%20Engenharia%20Software%20-%20Diagrama%20de%20Classe%2023-09.png)
+
+## Connection
+![ConnectionFactory](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/Connection%20-%20Connection.png)
+
+![PesqCliente](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/Connection%20-%20PesqCliente.png)
+
+## Model.Bean
+![Cliente](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/Model.bean%20-%20Cliente%20abstract.png)
+
+#### Classe Abstrata
+![Usuario](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/Model.bean%20-%20Usuario%20abstract.png)
+
+## View
+![Inicio](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/View%20-%20Inicio.png)
+
+![Cadastro](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/View%20-%20Cadastro.png)
+
+![Gerenciamento](https://github.com/Sunan16/Bertoti/blob/main/Engenharia%20I/Atividade/View%20-%20Gerenciamento.png)
